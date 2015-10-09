@@ -25,3 +25,5 @@ Details are available in the following blog posts:
   1. Link to source repo
   1. Link to documentation (if not in source repo)
   1. Name the license used
+
+See [`sample-project.md`](sample-project.md) for an example.
