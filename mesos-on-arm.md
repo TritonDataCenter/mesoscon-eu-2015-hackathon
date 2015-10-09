@@ -7,7 +7,8 @@ Get mesos up and running on arm.
 ![It Compiles!](http://biobeasts.artix.com/content/images/2015/05/It_Compiles_Ship_It.png)
 
 Beyond that we did not yet succeed in getting it running but have
-identified issues and are working through them.
+identified issues and are working through them. We also got a small
+ARM dev farm going on Scaleways but need to make better use of it.
 
 Some things that will affect the wider mesos world will be the following:
 
@@ -23,7 +24,8 @@ Possibly of less interest:
 
 ## Team
 
-- @lyda
+- @lyda ([lyda](https://twitter.com/lyda) or kevin@ie.suberic.net if you want
+  to ping me about helping)
 - @janisz
 
 ## Source
