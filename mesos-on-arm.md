@@ -1,12 +1,23 @@
 # Mesos on ARM
 
-Get mesos up and running on arm.  We did not yet succeed but have
+Get mesos up and running on arm.
+
+*Status:*
+
+![It Compiles!](http://biobeasts.artix.com/content/images/2015/05/It_Compiles_Ship_It.png)
+
+Beyond that we did not yet succeed in getting it running but have
 identified issues and are working through them.
 
 Some things that will affect the wider mesos world will be the following:
 
 - Upgrading zookeeper.
 - Upgrading leveldb.
+
+Possibly of less interest:
+
+![C o m p i l i n g . . .](https://imgs.xkcd.com/comics/compiling.png)
+
 - Documenting how to use distcc to speed up mesos builds.
 
 ## Team
