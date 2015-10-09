@@ -18,7 +18,8 @@ Possibly of less interest:
 
 ![C o m p i l i n g . . .](https://imgs.xkcd.com/comics/compiling.png)
 
-- Documenting how to use distcc to speed up mesos builds.
+- Documenting how to use [distcc](https://github.com/distcc/distcc)
+  to speed up mesos builds.
 
 ## Team
 
