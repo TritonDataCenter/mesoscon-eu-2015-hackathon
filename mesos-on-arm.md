@@ -16,13 +16,21 @@ Some things that will affect the wider mesos world will be the following:
 
 ## Source
 
-All source material is in https://github.com/lyda/mesos-on-arm
+All source material is on github in
+[lyda/mesos-on-arm](https://github.com/lyda/mesos-on-arm).
 
 ## Documentation
 
-Currently we're using the github tickets to track some initial ideas
-for projects that result from this as well as some infrastructure
-issues we've come across.
+Currently we're using the github
+[tickets](https://github.com/lyda/mesos-on-arm/issues)
+to track some initial ideas for projects that result from this as
+well as some infrastructure issues we've come across.
+
+There's also some draft docs living in
+[this wiki](https://github.com/lyda/mesos-on-arm/wiki).
+
+As we have something more mature to offer we'll be updating
+[MESOS-2021](https://issues.apache.org/jira/browse/MESOS-2021).
 
 ## License
 
