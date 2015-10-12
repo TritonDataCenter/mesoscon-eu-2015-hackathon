@@ -5,8 +5,8 @@ When tasks log to stdout/stderr, Mesos writes the output to files inside the san
 ## Team
 
 - @eirslett
-- @bahamat
-- @andrewh1978
+- @FlorentFlament
+- @pradeepchhetri
 
 ## Source
 
