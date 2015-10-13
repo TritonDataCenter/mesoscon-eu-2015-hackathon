@@ -1,16 +1,16 @@
 # Mesos on Triton
 
-Question: can we bring together Mesos' outstanding application scheduling capabilities with Triton's container-native infrastructure automation? Yes!
+Question: can we bring together Mesos' outstanding application scheduling capabilities with [Triton](http://joyent.com/triton)'s container-native infrastructure automation? Yes!
 
-Mesos on Triton runs tasks in containers across multi-tenant bare metal, eliminating the need to configure hosts or pay for VMs that sit idle. This consumption model pricing lowers the barriers to running massively parallel tasks by lowering costs and complexity. 
+Mesos on Triton runs tasks in containers across multi-tenant bare metal, eliminating the need to configure hosts or pay for VMs that sit idle. This consumption model pricing lowers the barriers to running massively parallel tasks by lowering costs and complexity. Each task is run on bare metal in Triton's secure Docker containers.
 
 Additionally, Mesos on Triton offers:
 
-1. Network virtualization into every task/container: convenient for microservices
-1. Strong isolation between tasks/containers: solves security problems and allows multi-tenant use
+1. Network virtualization into every container: one or more unique IPs for every container, convenient for microservices
+1. Strong isolation between containers: solves security problems and allows multi-tenant use
 1. Bare metal performance
-1. Hybrid cloud: on premises and in Joyent's public cloud
-1. Hybrid workloads: Mesos and non-Mesos on the same hardware
+1. Hybrid cloud: [on premises](https://www.joyent.com/private-cloud) and in [Joyent's public cloud](https://www.joyent.com/public-cloud)
+1. Hybrid workloads: Mesos and [non-Mesos](https://docs.joyent.com/public-cloud/instances) on the same hardware
 
 ## Team
 
